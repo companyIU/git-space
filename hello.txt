@@ -5,3 +5,4 @@ slave1加了一行
 master加了一行
 slave加了一行
 master又加了一行
+master增加了！！！！！
